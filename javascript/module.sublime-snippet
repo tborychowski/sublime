@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[(function (\$) {
+	var ${1:a} = null,
+
+	init = function () {
+		$0
+	};
+
+	App.Subscribe('app/ready', init);
+
+})(jQuery);]]></content>
+    <tabTrigger>mod</tabTrigger>
+    <scope>source.js</scope>
+    <description>Module</description>
+</snippet>

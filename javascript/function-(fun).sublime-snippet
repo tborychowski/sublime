@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[${1:name} = function (${2:args}) {
+	${3:}
+},]]></content>
+    <tabTrigger>fn</tabTrigger>
+    <scope>source.js</scope>
+    <description>Function in module</description>
+</snippet>

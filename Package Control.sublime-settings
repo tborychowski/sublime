@@ -1,0 +1,25 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"EditorConfig",
+		"EncodingHelper",
+		"JsFormat",
+		"LESS",
+		"Package Control",
+		"PlainTasks",
+		"Predawn",
+		"Sass",
+		"SCSS",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-php",
+		"Theme - amCoder"
+	]
+}

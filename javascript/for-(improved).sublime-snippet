@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[var i = 0, ${1:item};
+for (; ${1:item} = ${2:items}[i++] ;) {
+	$3
+}]]></content>
+    <tabTrigger>for</tabTrigger>
+    <scope>source.js</scope>
+    <description>for-(improved)</description>
+</snippet>

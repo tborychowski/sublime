@@ -1,0 +1,13 @@
+{
+	"extensions":
+	[
+		".md"
+	],
+
+	"line_numbers": false,
+	"trim_trailing_white_space_on_save": false,
+	"font_size": 12,
+	"word_wrap": true,
+	"spell_check": true,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+}

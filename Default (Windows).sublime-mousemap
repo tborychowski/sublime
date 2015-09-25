@@ -1,0 +1,5 @@
+[
+	{ "button": "scroll_down", "modifiers": ["ctrl"], "command": "scroll_lines", "args": {"amount": -30.0 }, "press_command": "" },
+	{ "button": "scroll_up", "modifiers": ["ctrl"], "command": "scroll_lines", "args": {"amount": 30.0 }, "press_command": "" },
+	{ "button": "button1", "count": 1, "modifiers": ["ctrl"], "press_command": "goto_definition" }
+]

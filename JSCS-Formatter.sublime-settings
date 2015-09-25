@@ -1,0 +1,15 @@
+{
+  "node_path": {
+    "windows": "C:/Program Files (x86)/nodejs/node.exe",
+    "linux": "/usr/bin/nodejs",
+    "osx": "/usr/local/bin/node"
+  },
+
+  "jscs_path": {
+    "windows": "c:/users/i313281/appdata/roaming/npm/node_modules/jscs/bin/jscs",
+    "linux": "/usr/bin/jscs",
+    "osx": "/usr/local/bin/jscs"
+  },
+
+  "format_on_save": false
+}

@@ -1,0 +1,12 @@
+{
+  "date_format": "(%Y-%m-%d %H:%M)",
+  "font_size": 12,
+  "font_face": "Source Code Pro",
+  "color_scheme": "Packages/PlainTasks/tasks-eighties-dark.hidden-tmTheme",
+  "indent_after_task": false,
+  "gutter": false,
+  "margin": 5,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "fold_buttons": false
+}

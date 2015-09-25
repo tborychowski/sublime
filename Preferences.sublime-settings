@@ -1,0 +1,81 @@
+{
+	"added_words":
+	[
+		"app",
+		"iframe",
+		"Plugin",
+		"dialog",
+		"plugins"
+	],
+	"caret_extra_width": 1,
+	"color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
+	"detect_indentation": true,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"file_exclude_patterns":
+	[
+		"*.sublime-workspace",
+		".project",
+		".buildpath"
+	],
+	"findreplace_small": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".settings",
+		".externalToolBuilders"
+	],
+	"font_face": "Ubuntu Mono",
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Diff",
+		"Graphviz",
+		"YAML",
+		"AppleScript",
+		"RestructuredText",
+		"C#",
+		"Vintage",
+		"Rails",
+		"Haskell",
+		"Groovy",
+		"Lisp",
+		"Matlab",
+		"Perl",
+		"Clojure",
+		"OCaml",
+		"Go",
+		"Erlang",
+		"Textile",
+		"D",
+		"Ruby",
+		"C++",
+		"TCL",
+		"ActionScript",
+		"Makefile",
+		"LaTeX",
+		"R",
+		"Scala",
+		"ASP",
+		"Lua"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"preview_on_click": false,
+	"remember_open_files": false,
+	"rulers":
+	[
+		100
+	],
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"sidebar_large": true,
+	"tabs_medium": true,
+	"theme": "predawn-DEV.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"vintage_ctrl_keys": false,
+	"word_wrap": false
+}
