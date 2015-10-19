@@ -20,7 +20,6 @@
 		"Stylus",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-php",
-		"Theme - amCoder"
+		"SublimeLinter-php"
 	]
 }
