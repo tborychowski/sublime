@@ -1,26 +1,17 @@
 {
 	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://web.archive.org/web/20150406110812/https://packagecontrol.io/channel_v3.json"
+	],
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
-		"Color Highlighter",
-		"ColorPicker",
-		"DocBlockr",
-		"EditorConfig",
-		"EncodingHelper",
-		"JavaScriptNext - ES6 Syntax",
-		"JsFormat",
 		"LESS",
 		"Package Control",
-		"PlainTasks",
-		"Predawn",
-		"Sass",
-		"SCSS",
-		"Stylus",
-		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-php"
+		"Predawn"
 	]
 }
