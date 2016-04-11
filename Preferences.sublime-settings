@@ -78,6 +78,7 @@
 	"tabs_medium": true,
 	"theme": "predawn-DEV.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
 	"vintage_ctrl_keys": false,
 	"word_wrap": false
 }
