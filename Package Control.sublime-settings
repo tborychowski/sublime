@@ -1,5 +1,10 @@
 {
 	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://web.archive.org/web/20150406110812/https://packagecontrol.io/channel_v3.json"
+	],
 	"in_process_packages":
 	[
 	],

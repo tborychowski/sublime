@@ -1,21 +1,15 @@
 {
-	"added_words":
-	[
-		"app",
-		"iframe",
-		"Plugin",
-		"dialog",
-		"plugins"
-	],
-	"caret_extra_width": 1,
 	"color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
+	"theme": "predawn-DEV.sublime-theme",
+	"caret_extra_width": 0,
 	"detect_indentation": true,
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"file_exclude_patterns":
 	[
 		"*.sublime-workspace",
 		".project",
-		".buildpath"
+		".buildpath",
+		".DS_Store"
 	],
 	"findreplace_small": true,
 	"fold_buttons": false,
@@ -25,8 +19,6 @@
 		".settings",
 		".externalToolBuilders"
 	],
-	"font_face": "Ubuntu Mono",
-	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -37,13 +29,16 @@
 		"C#",
 		"C++",
 		"Clojure",
+		"ColorPicker",
 		"D",
 		"Diff",
+		"EncodingHelper",
 		"Erlang",
 		"Go",
 		"Graphviz",
 		"Groovy",
 		"Haskell",
+		"JsFormat",
 		"LaTeX",
 		"Lisp",
 		"Lua",
@@ -51,11 +46,14 @@
 		"Matlab",
 		"OCaml",
 		"Perl",
+		"PlainTasks",
 		"R",
 		"Rails",
 		"RestructuredText",
 		"Ruby",
+		"Sass",
 		"Scala",
+		"SCSS",
 		"TCL",
 		"Textile",
 		"Vintage",
@@ -76,7 +74,6 @@
 	"show_line_endings": true,
 	"sidebar_large": true,
 	"tabs_medium": true,
-	"theme": "predawn-DEV.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
 	"vintage_ctrl_keys": false,
