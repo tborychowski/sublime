@@ -1,7 +1,6 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
-	"theme": "predawn-DEV.sublime-theme",
 	"caret_extra_width": 0,
+	"color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
 	"detect_indentation": true,
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"file_exclude_patterns":
@@ -19,6 +18,7 @@
 		".settings",
 		".externalToolBuilders"
 	],
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -74,6 +74,7 @@
 	"show_line_endings": true,
 	"sidebar_large": true,
 	"tabs_medium": true,
+	"theme": "predawn-DEV.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
 	"vintage_ctrl_keys": false,
